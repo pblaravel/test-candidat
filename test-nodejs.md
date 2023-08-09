@@ -13,3 +13,5 @@
 - Vue
 - Solidity
 - MetaMask
+
+## На фрон акцент не ставить, важна работа с EVM и MetaMask
